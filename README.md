@@ -40,10 +40,13 @@ Feel free to explore my projects — each one is a small step in my journey, bui
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabibuenorosa&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gabibuenorosa&theme=rose_pine&hide_border=true" alt="Streak Stats" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabibuenorosa&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=gabibuenorosa&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=gabibuenorosa&theme=rose_pine&hide_border=false)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabibuenorosa&layout=compact&theme=rose_pine&hide_border=false)
+
 
 ---
 
