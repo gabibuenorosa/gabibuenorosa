@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b6/1b/5c/b61b5c55cc2019e3d90fd536745d66f5.gif" alt="Cute banner gif" width="100%" />
+  <img src="https://i.pinimg.com/originals/b6/1b/5c/b61b5c55cc2019e3d90fd536745d66f5.gif" alt="Cute banner gif" width="100%" height="180px" />
 </p>
 
 # 🌺 Hello, world! I'm Gabriela
