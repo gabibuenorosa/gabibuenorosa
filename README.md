@@ -2,24 +2,24 @@
   <img src="https://i.pinimg.com/originals/b6/1b/5c/b61b5c55cc2019e3d90fd536745d66f5.gif" alt="Banner" style="width:100%; max-width:900px; height:180px; border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
 </p>
 
-# 🌺 Hello, I'm Gabriela
+# 👋 Hi, I'm Gabriela
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Itim&color=14366D&size=30&lines=Welcome+to+my+GitHub!°❀.ೃ࿔*" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Itim&color=14366D&size=30&lines=Welcome+to+my+GitHub!+°❀.ೃ࿔*" alt="Typing SVG" />
 </p>
 
-I'm a **Systems Analysis and Development** student at **SENAI**, passionate about turning ideas into clean, elegant code.  
-I love learning, creating, and transforming challenges into digital solutions with care and logic.
+I'm a **Systems Analysis and Development** student at **SENAI** with a passion for clean code, elegant design, and problem-solving.  
+I transform ideas into digital solutions with creativity, precision, and care.  
 
-> _“There's a force stronger than nature, keeps her will alive”_  
+> _“There's a force stronger than nature, keeps her will alive”_
 
 ---
 
 ## 🌸 About Me
 
-- Curious, creative, and always eager to learn  
-- Enthusiastic about coding, design, and innovation  
-- Transforming dreams into digital reality, one line of code at a time  
+- Curious, innovative, and constantly learning  
+- Passionate about coding, design, and UX/UI  
+- Focused on building projects that are functional, beautiful, and maintainable  
 
 ---
 
@@ -45,16 +45,29 @@ I love learning, creating, and transforming challenges into digital solutions wi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabibuenorosa&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gabibuenorosa&theme=react&hide_border=true" alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabibuenorosa&layout=compact&theme=react&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gabibuenorosa&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gabibuenorosa&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabibuenorosa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 💌 Contact
+## 💼 Featured Projects
 
 <p align="center">
-  <a href="mailto:gabibuenorosa445@gmail.com">📧 Email</a> |
+  <a href="https://github.com/gabibuenorosa/EssenceLumiere" target="_blank">
+    <img src="https://img.shields.io/badge/Essence_Lumière-Portfolio-14366D?style=for-the-badge" alt="Essence Lumière" />
+  </a>
+  <a href="https://github.com/gabibuenorosa/BitBloom" target="_blank">
+    <img src="https://img.shields.io/badge/Bit_&_Bloom-Shop-14366D?style=for-the-badge" alt="Bit & Bloom" />
+  </a>
+</p>
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:gabibuenorosa445@gmail.com">📧 Email</a> | 
   <a href="https://instagram.com/_bibueno">📸 Instagram</a>
 </p>
