@@ -2,8 +2,7 @@
   <img src="header.jpg" alt="Banner" style="max-width:900px; width:100%; border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Itim&color=ffffff&size=28&lines=Welcome+to+my+GitHub!⋆｡°✩;Hi+there!+I’m+Gabriela" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Itim&color=ffffff&size=28&lines=Welcome+to+my+GitHub!⋆｡°✩\nHi+there!+I’m+Gabriela" alt="Typing SVG" />
 
 I'm a **Systems Analysis and Development** student at **SENAI** with a passion for clean code, elegant design, and problem-solving.  
 I transform ideas into digital solutions with creativity, precision, and care.  
