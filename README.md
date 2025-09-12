@@ -6,7 +6,7 @@
 # 👋 Hi, I'm Gabriela
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Itim&color=14366D&size=30&lines=Welcome+to+my+GitHub!+°❀.ೃ࿔*" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Itim&color=ffffff&size=30&lines=Welcome+to+my+GitHub!⋆｡°✩" alt="Typing SVG" />
 </p>
 
 I'm a **Systems Analysis and Development** student at **SENAI** with a passion for clean code, elegant design, and problem-solving.  
