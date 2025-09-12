@@ -4,7 +4,7 @@
 
 # <img src="https://readme-typing-svg.herokuapp.com?font=Itim&color=ffffff&size=28&lines=Welcome+to+my+GitHub!⋆｡°✩\nHi+there!+I’m+Gabriela" alt="Typing SVG" />
 
-<h1 style="color:#ff79c6;">Hi there! I’m Gabriela</h1>
+<span style="color:#ff79c6; font-weight:bold; font-size:1.5em;">Hi there! I’m Gabriela</span>
 
 I'm a **Systems Analysis and Development** student at **SENAI** with a passion for clean code, elegant design, and problem-solving.  
 I transform ideas into digital solutions with creativity, precision, and care.  
