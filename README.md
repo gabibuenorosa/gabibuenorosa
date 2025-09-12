@@ -2,12 +2,11 @@
   <img src="header.jpg" alt="Banner" style="max-width:900px; width:100%; border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
 </p>
 
-
-# 👋 Hi, I'm Gabriela
-
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Itim&color=ffffff&size=30&lines=Welcome+to+my+GitHub!⋆｡°✩" alt="Typing SVG" />
 </p>
+
+# 👋 Hi, I'm Gabriela
 
 I'm a **Systems Analysis and Development** student at **SENAI** with a passion for clean code, elegant design, and problem-solving.  
 I transform ideas into digital solutions with creativity, precision, and care.  
