@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="header.jpg" alt="Banner" style="width:100%; max-width:900px; height:180px; border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+  <img src="images/header.jpg" alt="Banner" style="max-width:900px; width:100%; border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
 </p>
+
 
 # 👋 Hi, I'm Gabriela
 
