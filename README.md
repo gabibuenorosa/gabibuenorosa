@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Itim&color=ffffff&size=28&lines=Welcome+to+my+GitHub!⋆｡°✩" alt="Typing SVG" />
 </p>
 
-<p align="left" style="font-family: 'Times New Roman', serif; font-size:28px; color:#ffffff; margin-top:5px;">
+<p align="left" style="font-family: 'Itim', cursive; font-size:28px; color:#ffffff; margin-top:5px;">
   Hi there! I’m Gabriela
 </p>
 
