@@ -3,8 +3,7 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Itim&color=ffffff&size=30&lines=Welcome+to+my+GitHub!⋆｡°✩
-    Hi there! I’m Gabriela" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Itim&color=ffffff&size=30&lines=Welcome+to+my+GitHub!⋆｡°✩%0AHi+there!+I’m+Gabriela" alt="Typing SVG" />
 </p>
 
 
