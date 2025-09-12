@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b6/1b/5c/b61b5c55cc2019e3d90fd536745d66f5.gif" alt="Banner" style="width:100%; max-width:900px; height:180px; border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+  <img src="[https://i.pinimg.com/originals/b6/1b/5c/b61b5c55cc2019e3d90fd536745d66f5.gif](https://www.canva.com/design/DAGylV8GDnw/E9ZIR9i-eU1IHxgYglqycQ/edit?utm_content=DAGylV8GDnw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" alt="Banner" style="width:100%; max-width:900px; height:180px; border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
 </p>
 
 # 👋 Hi, I'm Gabriela
