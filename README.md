@@ -3,8 +3,9 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Itim&color=ffffff&size=30&lines=Welcome+to+my+GitHub!⋆｡°✩%0AHi+there!+I’m+Gabriela" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Itim&color=ffffff&size=28&lines=Welcome+to+my+GitHub!⋆｡°✩%0AHi+there!+I’m+Gabriela&duration=4000" alt="Typing SVG" />
 </p>
+
 
 
 I'm a **Systems Analysis and Development** student at **SENAI** with a passion for clean code, elegant design, and problem-solving.  
